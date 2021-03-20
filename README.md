@@ -45,7 +45,7 @@
   <img alt="Postgres" src ="https://img.shields.io/badge/POSTGRES-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/LARAVEL-FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white "/>
-  <img alt="Webpack" src="https://img.shields.io/badge/-WEBPACK-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-WEBPACK-8DD6F9?style=flat-square&logo=webpack&logoColor=8DD6F9" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-DOCKER-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/KUBERNETS-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/TERRAFORM-5835CC.svg?&style=flat-square&logo=terraform&logoColor=white" />
