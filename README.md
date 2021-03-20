@@ -22,11 +22,11 @@
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/LINUX-E95420?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Deepin" src="https://img.shields.io/badge/DEEPIN-00dbff?style=flat-square&logo=deepin&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-ffa500?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/REACT-20232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
-  <img alt="React Native" src="https://img.shields.io/badge/REACT_NATIVE-2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img alt="React" src="https://img.shields.io/badge/REACT-20232a.svg?&style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/REACT_NATIVE-20232a.svg?&style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="NextJS" src="https://img.shields.io/badge/NEXT_JS-666666.svg?&style=flat-square&logo=next.js&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NODEJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -66,7 +66,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/VERCEL-222222.svg?&style=flet-square&logo=vercel&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/FIREBASE-039BE5.svg?&style=flat-square&logo=firebase" />
   <img alt="Azure" src="https://img.shields.io/badge/AZURE-0072C6.svg?&style=flat-square&logo=azure-devops&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a Software Engineer and Data Science and Big Data Analytics student. My last experience was as a Trainee in Software Engineering at ENFAM / STJ (National School for Training and Improvement of Magistrates) at the Superior Court of Justice (STJ).
