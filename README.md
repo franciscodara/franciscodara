@@ -1,11 +1,3 @@
-<script>
-    var links = document.querySelectorAll( '.post-content a' );  
-    for (var i = 0, length = links.length; i < length; i++) {  
-        if (links[i].hostname != window.location.hostname) {
-            links[i].target = '_blank';
-        }
-    }
-</script>
 
 # Hi there 👋, my name is Dara! I'm Software Engineer from Brazil.
 
@@ -108,6 +100,3 @@ About me:
 - ⚡ Curiosity: UX | UI Design, Chatsbots, Blockchain, Cryptocurrencies.
 
 -->
-
-
-<a href="http://example.com/" target="_blank">example</a>
