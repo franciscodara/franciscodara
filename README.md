@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/franciscodara" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
   <a href="https://medium.com/@franciscodara" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/MEDIUM-333333.svg?&style=flat-square&logo=Medium&logoColor=white" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=franciscodara&tw_p=followbutton" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a> 
-  <a hfer="https://www.instagram.com/franciscodara/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-bc2a8d.svg?&style=flat-square&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/franciscodara/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-bc2a8d.svg?&style=flat-square&logo=Instagram&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5561993877556&text=Ol%C3%A1%20Dara!%20Vim%20do%20seu%20GitHub." target="blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="https://web.whatsapp.com/send?l=pt-BR&phone=5561993877556&text=Ol%C3%A1%20Dara!%20Vim%20do%20seu%20GitHub." target="blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP|WEB-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto: franciscodara@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
