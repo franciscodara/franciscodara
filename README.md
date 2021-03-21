@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/franciscodara/Resume" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/RESUME_|_CURRICULUM-4cb1d1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/franciscodara/Resume" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/RESUME-CURRICULUM-4cb1d1.svg?&style=for-the-badge" /></a>
 
 [![Hello world](https://raw.githubusercontent.com/franciscodara/images/main/hello.png)](https://github.com/franciscodara?tab=repositories)
 
