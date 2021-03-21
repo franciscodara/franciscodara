@@ -14,7 +14,7 @@
 
 ## Things I code with (know well or I am studying):
 <p>
-  <img alt="Linux" src="https://img.shields.io/badge/LINUX-E95420?style=flat-square&logo=linux&logoColor=white" />
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/LINUX-E95420?style=flat-square&logo=linux&logoColor=white" /></a>
   <img alt="Deepin" src="https://img.shields.io/badge/DEEPIN-00dbff?style=flat-square&logo=deepin&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
