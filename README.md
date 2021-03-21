@@ -98,7 +98,7 @@ About me:
 - 💬 Ask me about software architecture and business intelligence.
 - ⚡ Curiosity: UX | UI Design, Chatsbots, Blockchain, Cryptocurrencies.
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
-[link](https://linkedin.com/in/franciscodara{:target="_blank"})
 -->
+
+[Go to this page](http://somelink.com/?target=_blank)
+[Google](https://google.com" target="_blank)
