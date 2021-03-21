@@ -1,3 +1,12 @@
+<script>
+    var links = document.querySelectorAll( '.post-content a' );  
+    for (var i = 0, length = links.length; i < length; i++) {  
+        if (links[i].hostname != window.location.hostname) {
+            links[i].target = '_blank';
+        }
+    }
+</script>
+
 # Hi there 👋, my name is Dara! I'm Software Engineer from Brazil.
 
 <!--<h3 align="center">
@@ -100,5 +109,5 @@ About me:
 
 -->
 
-[Go to this page](http://somelink.com/?target=_blank)
-[Google](https://google.com" target="_blank)
+
+<a href="http://example.com/" target="_blank">example</a>
