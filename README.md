@@ -6,10 +6,6 @@
 
 [![160744959694494596](https://raw.githubusercontent.com/franciscodara/images/main/hi.png)](https://github.com/franciscodara?tab=repositories)
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
-[link](https://linkedin.com/in/franciscodara){:target="_blank"}
-
 <p align="center">
   <a href="https://linkedin.com/in/franciscodara" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
   <a href="https://medium.com/@franciscodara" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/MEDIUM-333333.svg?&style=flat-square&logo=Medium&logoColor=white" /></a>
@@ -100,6 +96,9 @@ About me:
 - 👯 I am looking to collaborate on multiplatform development projects and data analysis.
 - 🤔 I'm looking for help with devops culture processes and methods.
 - 💬 Ask me about software architecture and business intelligence.
-- 📫 How to contact me: Linkedin, Twitter, Instagram.
 - ⚡ Curiosity: UX | UI Design, Chatsbots, Blockchain, Cryptocurrencies.
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
+[link](https://linkedin.com/in/franciscodara{:target="_blank"})
 -->
