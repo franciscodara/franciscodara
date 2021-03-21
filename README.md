@@ -1,11 +1,4 @@
-
-# Hi there 👋, my name is Dara! I'm Software Engineer from Brazil.
-
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-
-[![160744959694494596](https://raw.githubusercontent.com/franciscodara/images/main/hi.png)](https://github.com/franciscodara?tab=repositories)
+[![Hello world](https://raw.githubusercontent.com/franciscodara/images/main/hello.png)](https://github.com/franciscodara?tab=repositories)
 
 <p align="center">
   <a href="https://linkedin.com/in/franciscodara" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
