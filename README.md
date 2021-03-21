@@ -82,11 +82,9 @@ Como Engenheiro de Software e agora  pós-graduando em Data Science and Big Data
 </a>
 
 ## Skills & Endorsements
-___
 Waiting...
 
 ## About me:
-___
 
 - 🔭 I am currently working at <Codara />.
 - 🌱 I'm currently learning Data Science & Big Data Analytics
