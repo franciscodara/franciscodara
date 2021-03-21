@@ -12,7 +12,7 @@
 
 ---
 
-<h3>Things I code with (know well or I am studying):</h3>
+## Things I code with (know well or I am studying):
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/LINUX-E95420?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Deepin" src="https://img.shields.io/badge/DEEPIN-00dbff?style=flat-square&logo=deepin&logoColor=white" />
@@ -82,9 +82,11 @@ Como Engenheiro de Software e agora  pós-graduando em Data Science and Big Data
 </a>
 
 ## Skills & Endorsements
+___
 Waiting...
 
-About me:
+## About me:
+___
 
 - 🔭 I am currently working at <Codara />.
 - 🌱 I'm currently learning Data Science & Big Data Analytics
