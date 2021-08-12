@@ -15,6 +15,19 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/franciscodara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscodara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscodara&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div align="center"> 
+  
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 ## Things I code with (know well or I am studying):
 <p>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/LINUX-E95420?style=flat-square&logo=linux&logoColor=white" /></a>
